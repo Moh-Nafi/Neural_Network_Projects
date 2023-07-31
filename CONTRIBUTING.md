@@ -1,5 +1,5 @@
 # Contributing to Neural Network Projects
-Welcome to Neural_Network_Projects! <br />I appreciate your interest in contributing to my projects. By participating, you can help me improve and enhance the functionality of the projects for everyone.
+Welcome to Neural Network Projects! <br />I appreciate your interest in contributing to my projects. By participating, you can help me improve and enhance the functionality of the projects for everyone.
 
 ### Ways to Contribute
 There are several ways you can contribute to Neural Network Projects:
