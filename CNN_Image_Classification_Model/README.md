@@ -1,5 +1,5 @@
 
-&nbsp&nbsp![cats_vs_dogs_samples](https://github.com/Moh-Nafi/Neural_Network_Projects/assets/133475571/ece10b6b-0f95-4424-8cb4-c5e129de8aec)
+![cats_vs_dogs_samples](https://github.com/Moh-Nafi/Neural_Network_Projects/assets/133475571/ece10b6b-0f95-4424-8cb4-c5e129de8aec)
 
 
 Having to train an image classification model using only very little data is a common situation, which you likely encounter yourself in practice if you ever do computer vision in a professional context.
