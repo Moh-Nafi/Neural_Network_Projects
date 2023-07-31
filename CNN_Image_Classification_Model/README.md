@@ -1,11 +1,9 @@
-
+# Building an Image Classification Model using CNN
 ![cats_vs_dogs_samples](https://github.com/Moh-Nafi/Neural_Network_Projects/assets/133475571/ece10b6b-0f95-4424-8cb4-c5e129de8aec)
 
 
-Having to train an image classification model using only very little data is a common situation, which you likely encounter yourself in practice if you ever do computer vision in a professional context.
+Encountering situations where we need to train an image classification model with limited data is quite common, especially in professional computer vision applications.
 
-Having "few" samples can mean anywhere from a few hundreds to a few tens of thousands of images. As a practical example, we will focus on classifying images as "dogs" or "cats", in a dataset containing 4000 pictures of cats and dogs (2000 cats, 2000 dogs). We will use 2000 
-pictures for training, 1000 for validation, and finally 1000 for testing.
+The term "few" samples can encompass a range, spanning from a few hundred to a few tens of thousands of images. To illustrate, we will focus on a specific scenario: classifying images as "dogs" or "cats" using a dataset containing 4000 pictures, equally split between cats and dogs (2000 each). Our approach involves using 2000 images for training, 1000 for validation, and the remaining 1000 for testing.
 
-In this section, we will review one basic strategy to tackle this problem: training a new model from scratch on what little data we have. We will start by naively training a small convnet on our 2000 training samples, without any regularization, to set a baseline for what can be achieved. This will get us to a classification accuracy of 71%. At that point, our main issue will be overfitting. Then we will introduce *data augmentation*, a powerful technique for mitigating overfitting in computer vision. By leveraging data augmentation, we will improve 
-our network to reach an accuracy of 82%.
+In this section, we will explore a fundamental strategy to address this challenge: training a new model from scratch with our limited data. Initially, we will train a small ConvNet on the 2000 training samples without applying any regularization, serving as our baseline to assess achievable performance. The primary concern here will be overfitting. Subsequently, we will introduce the concept of data augmentation, a powerful technique to combat overfitting in computer vision. Leveraging **data augmentation** will enable us to enhance our network's performance, achieving an accuracy of 82%.
