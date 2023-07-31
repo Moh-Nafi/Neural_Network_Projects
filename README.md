@@ -5,4 +5,18 @@
 
 ![image](https://github.com/Moh-Nafi/Neural_Network_Projects/assets/133475571/65963975-d467-4424-b98f-aec70b1cf450)&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/Moh-Nafi/Neural_Network_Projects/assets/133475571/f59493f4-cdb8-4c37-8e49-5e1ba651721d)&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/Moh-Nafi/Neural_Network_Projects/assets/133475571/3f16ac14-51e2-4eb5-a025-8f297c5991b0)
  
+Deep Learning is one of the most highly sought-after skills in artificial intelligence (AI).<br/>
+Welcome to the Machine Learning, Neural Networks, and NLP Projects repository! This repository houses a collection of exciting projects that explore various aspects of Machine Learning, Neural Networks, and Natural Language Processing (NLP) using Python.
 
+### Overview
+In this repository, you will find projects that cover a wide range of topics in the fields of Machine Learning, Neural Networks, and NLP. Each project aims to provide insights and practical experience in implementing state-of-the-art models and techniques to solve real-world problems.
+
+### Python Modules and Tools
+The projects in this repository will primarily be developed using Python, and the following Python modules and tools will be frequently utilized:
+
+1. NumPy: For numerical computing and handling arrays.
+2. Pandas: For data manipulation and analysis.
+3. Matplotlib and Seaborn: For data visualization and plotting.
+4. Scikit-learn: For building and evaluating Machine Learning models.
+5. TensorFlow and Keras: For developing Neural Network models.
+6. Gensim: A Python library that is primarily used for natural language processing (NLP) and topic modeling.
