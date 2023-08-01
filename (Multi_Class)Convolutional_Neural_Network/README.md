@@ -1,2 +1,2 @@
-# CNN to recognize rock, paper, and scissors.
+# CNN to recognize Rock, Paper, and Scissors (Multi-Class Image Classification).
 
