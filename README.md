@@ -26,7 +26,7 @@ Each project in this repository will have its own dedicated folder containing th
 ### How to Use this Repository
 To get started, clone this repository to your local machine using the following command:
 
-*`git clone https://github.com/yourusername/machine-learning-nlp-projects.git`*
+*`git clone https://github.com/yourusername/Neural_Network_Projects.git`* <br/)
 Replace yourusername with your GitHub username.
 
 Once you have cloned the repository, you can explore each project folder to find the Python scripts, data, and any additional instructions on how to run the projects.<br/>
