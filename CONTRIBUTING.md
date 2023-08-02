@@ -31,4 +31,4 @@ To contribute, follow these steps:
 
 --> Once your changes are approved, they will be merged into the main branch.
 
-Thank you for your contribution. Your efforts help make this projects better for everyone.
+Thank you for your contribution. Your efforts will help make these projects better for everyone.
